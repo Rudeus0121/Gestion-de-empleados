@@ -7,4 +7,4 @@ class proyecto():
         self.fecha_fin = fecha_fin
     
     def validar_fechas():
-        pass                                
+        pass                            
