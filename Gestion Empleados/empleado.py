@@ -1,4 +1,4 @@
-import tipo_empleado
+from tipo_empleado import tipo_empleado
 class empleado(tipo_empleado):
     def __init__(self,id_empleado,rut,nombre,direccion,telefono,correo_P,fecha_inicio_contrato,salario,id_tipo_empleado):
         super().__init__(id_tipo_empleado)
